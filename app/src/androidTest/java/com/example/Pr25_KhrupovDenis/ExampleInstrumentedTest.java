@@ -1,4 +1,4 @@
-package com.example.pr25_levenec;
+package com.example.Pr25_KhrupovDenis;
 
 import android.content.Context;
 
